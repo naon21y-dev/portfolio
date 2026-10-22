@@ -1,0 +1,43 @@
+main > section.work-page{padding-top:0;margin-top:0}
+.work-page .work-intro{margin:0 0 28px;max-width:none}
+.work-page .work-intro h1{font-size:clamp(32px,4vw,56px);margin-bottom:12px}
+.work-page .work-intro>p:last-child{font-size:13px;margin-bottom:12px}
+.work-stage-viewer{position:relative;padding:0 0 28px}
+.work-stage-arrow{position:absolute;top:50%;transform:translateY(-50%);z-index:10;border:0;border-radius:0;background:transparent;box-shadow:none;color:#71385b;font-size:36px;padding:0;width:44px;height:52px;cursor:pointer}
+.work-stage-prev{left:-48px}.work-stage-next{right:-48px}
+.work-stage-arrow:disabled{opacity:.25;cursor:default}
+.work-stage-arrow:focus-visible{outline:3px solid #a05c87;outline-offset:2px}
+.work-stage-progress{text-align:center;margin:0 0 24px;font-size:12px;color:#71385b}
+.work-page .work-stage-viewer .work-chapter{height:clamp(400px,calc(100dvh - 300px),640px);margin:0;padding:48px 20px 30px}
+.work-stage-viewer .work-stage-label{font-size:12px;padding:5px 12px}
+.work-page .work-stage-viewer .work-chapter-copy{position:absolute;left:24px;top:70px;width:30%;margin:0;padding:22px 18px;max-height:calc(100% - 100px);overflow:auto}
+.work-stage-viewer .work-chapter-copy h2{font-size:clamp(20px,2.4vw,30px);line-height:1.25;margin-bottom:12px}
+.work-page .work-stage-viewer .work-chapter-copy>p:not(.eyebrow){font-size:12px;line-height:1.6}
+.work-page .work-stage-viewer .work-collage{position:relative;margin:0 0 0 35%;width:65%;height:100%;padding:0}
+.work-page .work-stage-viewer .scrap-photo:nth-child(4n+1){left:1%;top:8%;width:45%;height:64%}
+.work-page .work-stage-viewer .scrap-photo:nth-child(4n+2){left:50%;top:2%;width:45%;height:64%}
+.work-page .work-stage-viewer .scrap-photo:nth-child(4n+3){left:5%;right:auto;top:40%;width:44%;height:59%}
+.work-page .work-stage-viewer .scrap-photo:nth-child(4n+4){left:52%;top:42%;width:44%;height:57%}
+.work-stage-viewer .work-chapter-navigation{top:auto;right:auto;bottom:18px;left:24px;gap:10px;padding:5px 8px;background:#fff9e9;border:2px solid #a65387;border-radius:8px;box-shadow:3px 3px 0 #a6538755}
+.work-stage-viewer .work-chapter-navigation button{display:flex;align-items:center;justify-content:center;gap:5px;font-size:0;min-height:36px;min-width:76px;padding:4px 10px;background:#fff092;border:2px solid #a65387;border-radius:5px;box-shadow:0 3px 0 #c58a67;color:#713052;transition:transform .15s,background .15s}
+.work-stage-viewer .work-chapter-navigation button::before{display:block;font-size:13px;line-height:1.4;content:'‹ 이전'}
+.work-stage-viewer .work-chapter-navigation button:last-child::before{content:'다음 ›'}
+.work-stage-viewer .work-chapter-navigation button:hover:not(:disabled){background:#ffe35e;transform:translateY(-2px)}
+.work-stage-viewer .work-chapter-navigation button:disabled{opacity:1;background:#f2e8ef;border-color:#d2b6c7;color:#ad95a4;box-shadow:none}
+.work-stage-viewer .work-chapter-navigation span{font-size:13px;font-weight:700;color:#713052;white-space:nowrap}
+@media(prefers-reduced-motion:reduce){.work-stage-viewer .work-chapter-navigation button{transition:none}}
+@media(max-width:700px){
+ .work-page .work-intro{margin-inline:0}
+ .work-stage-viewer{padding:0 0 16px}
+ .work-stage-prev{left:-28px}.work-stage-next{right:-28px}
+ .work-stage-arrow{width:28px;font-size:28px}
+ .work-stage-progress{margin-bottom:22px}
+ .work-page .work-stage-viewer .work-chapter{height:clamp(480px,calc(100dvh - 240px),700px);padding:48px 12px 16px}
+ .work-page .work-stage-viewer .work-chapter-copy{position:relative;left:auto;top:auto;width:calc(100% - 12px);max-height:150px;margin:0 auto 18px;padding:14px 12px}
+ .work-stage-viewer .work-chapter-copy h2{font-size:20px;margin-bottom:8px}
+ .work-page .work-stage-viewer .work-chapter-copy>p:not(.eyebrow){font-size:10px;line-height:1.4;margin-bottom:6px}
+ .work-page .work-stage-viewer .work-collage{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));gap:10px;width:100%;height:calc(100% - 168px);margin:0}
+ .work-page .work-stage-viewer .scrap-photo:nth-child(n){position:relative;left:auto;right:auto;top:auto;width:100%;height:100%;aspect-ratio:auto;transform:rotate(-2deg)}
+ .work-page .work-stage-viewer .scrap-photo:nth-child(even){transform:rotate(2deg)}
+ .work-stage-viewer .scrap-title{font-size:9px}
+}

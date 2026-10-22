@@ -1,0 +1,381 @@
+{
+  "tabs": [
+    [
+      "FEED",
+      "Feed"
+    ],
+    [
+      "REEL",
+      "Reels"
+    ]
+  ],
+  "items": [
+    {
+      "projectId": 1,
+      "type": "FEED",
+      "title": "스킨케어 Feed 01",
+      "imageUrl": "/media/editorial-serum.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-serum.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 2,
+      "type": "FEED",
+      "title": "색조 Feed 01",
+      "imageUrl": "/media/editorial-lip.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-lip.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 3,
+      "type": "FEED",
+      "title": "프래그런스 Feed 01",
+      "imageUrl": "/media/editorial-scent.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-scent.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 1,
+      "type": "FEED",
+      "title": "스킨케어 Feed 02",
+      "imageUrl": "/media/editorial-serum.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-serum.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 1,
+      "type": "FEED",
+      "title": "스킨케어 Feed 03",
+      "imageUrl": "/media/editorial-serum.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-serum.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 2,
+      "type": "FEED",
+      "title": "색조 Feed 02",
+      "imageUrl": "/media/editorial-lip.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-lip.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 2,
+      "type": "FEED",
+      "title": "색조 Feed 03",
+      "imageUrl": "/media/editorial-lip.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-lip.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 3,
+      "type": "FEED",
+      "title": "프래그런스 Feed 02",
+      "imageUrl": "/media/editorial-scent.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-scent.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 3,
+      "type": "FEED",
+      "title": "프래그런스 Feed 03",
+      "imageUrl": "/media/editorial-scent.svg",
+      "brand": "",
+      "productName": "",
+      "caption": "교체용 플레이스홀더",
+      "intention": "",
+      "role": "",
+      "thumbnailUrl": "/media/editorial-scent.svg",
+      "videoUrl": "",
+      "externalUrl": "",
+      "sample": true
+    },
+    {
+      "projectId": 2,
+      "type": "REEL",
+      "title": "색조",
+      "brand": "너티퍼센트",
+      "productName": "멜팅샤인립스틱 04 스텝백",
+      "caption": "",
+      "intention": "",
+      "role": "",
+      "videoSrc": "",
+      "thumbnailSrc": "/media/makeup-1.png",
+      "instagramUrl": "https://www.instagram.com/reel/DUHroHgAXRx/",
+      "contentImages": ["/media/makeup-1.png", "/media/makeup-2.png", "/media/makeup-3.png", "/media/makeup-4.png"],
+      "sample": false,
+      "insights": {
+        "views": 23160,
+        "reactions": [
+          38,
+          19,
+          10,
+          9,
+          1
+        ],
+        "reach": 15878,
+        "viewers": null,
+        "averageWatchSeconds": null,
+        "skipRate": null,
+        "follows": 0,
+        "description": "딥 버건디 컬러와 멜팅 광택을 중심으로 소개한 협찬 콘텐츠. 캡션에서는 겨울 메이크업이라는 사용 상황과 발림성·레이어링 사용감을 설명하고 구매 혜택 안내로 연결했습니다.",
+        "interpretation": "선별한 6편 중 조회수가 가장 많았으며, 공유 10건과 저장 9건이 확인됐습니다.",
+        "activity": null
+      }
+    },
+    {
+      "projectId": 1,
+      "type": "REEL",
+      "title": "올리브영 추천템",
+      "brand": "",
+      "productName": "올리브영 추천템 큐레이션",
+      "caption": "",
+      "intention": "",
+      "role": "",
+      "videoSrc": "",
+      "thumbnailSrc": "/media/skincare-1.png",
+      "instagramUrl": "",
+      "contentImages": ["/media/skincare-1.png", "/media/skincare-2.png", "/media/skincare-3.png", "/media/skincare-4.png", "/media/skincare-5.png"],
+      "sample": false,
+      "insights": {
+        "views": 3842,
+        "reactions": [
+          110,
+          9,
+          20,
+          17,
+          7
+        ],
+        "reach": null,
+        "viewers": 3197,
+        "averageWatchSeconds": 6,
+        "skipRate": 68.3,
+        "follows": 0,
+        "description": null,
+        "interpretation": null,
+        "activity": null
+      }
+    },
+    {
+      "projectId": 3,
+      "type": "REEL",
+      "title": "향수",
+      "brand": "아뜰리에페이",
+      "productName": "향수 5종",
+      "caption": "",
+      "intention": "",
+      "role": "",
+      "videoSrc": "",
+      "thumbnailSrc": "/media/perfume-1.png",
+      "instagramUrl": "https://www.instagram.com/reel/Dck4yGjh0DG/",
+      "contentImages": ["/media/perfume-1.png", "/media/perfume-2.png", "/media/perfume-3.png"],
+      "sample": false,
+      "insights": {
+        "views": 4199,
+        "reactions": [
+          67,
+          18,
+          30,
+          34,
+          4
+        ],
+        "reach": null,
+        "viewers": 3442,
+        "averageWatchSeconds": 5,
+        "skipRate": 63.3,
+        "follows": 1,
+        "description": "여름 외출과 기분별 향 선택을 주제로 향수 5종을 소개한 큐레이션 콘텐츠. 일상 속 사용 상황과 제품을 연결했습니다.",
+        "interpretation": "저장 34건·공유 30건으로 다시 참고하거나 다른 사람에게 전달하는 반응이 확인됐습니다.",
+        "activity": "아뜰리에페이 서포터즈 활동 경험"
+      }
+    },
+    {
+      "projectId": 3,
+      "type": "REEL",
+      "title": "기타",
+      "brand": "리터니티 × 태닝 헬로키티",
+      "productName": "이어테라피",
+      "caption": "",
+      "intention": "",
+      "role": "",
+      "videoSrc": "",
+      "thumbnailSrc": "/media/eartherapy-1.png",
+      "instagramUrl": "https://www.instagram.com/reel/DckhpgKhYyO/",
+      "contentImages": ["/media/eartherapy-1.png", "/media/eartherapy-2.png", "/media/eartherapy-3.png", "/media/eartherapy-4.png"],
+      "sample": false,
+      "insights": {
+        "views": 17036,
+        "reactions": [
+          335,
+          24,
+          219,
+          88,
+          8
+        ],
+        "reach": null,
+        "viewers": 13851,
+        "averageWatchSeconds": 7,
+        "skipRate": 49.6,
+        "follows": 1,
+        "description": "귀를 뚫지 않아도 꾸밀 수 있다는 메시지와 착용 이미지를 활용한 콘텐츠. 다양한 디자인과 간편한 부착 방법을 중심으로 일상 활용성을 소개했습니다.",
+        "interpretation": "선별한 6편 중 공유·저장·반응 합계가 가장 많았습니다. 공유와 저장 합계는 307건입니다.",
+        "activity": null
+      }
+    },
+    {
+      "projectId": 2,
+      "type": "REEL",
+      "title": "클렌징",
+      "brand": "포인트앤",
+      "productName": "클렌징 4종",
+      "caption": "",
+      "intention": "",
+      "role": "",
+      "videoSrc": "",
+      "thumbnailSrc": "/media/cleansing-1.png",
+      "instagramUrl": "https://www.instagram.com/reel/Dc-0qCKh5Uo/",
+      "contentImages": ["/media/cleansing-1.png", "/media/cleansing-2.png", "/media/cleansing-3.png", "/media/cleansing-4.png", "/media/cleansing-5.png"],
+      "sample": false,
+      "insights": {
+        "views": 3705,
+        "reactions": [
+          65,
+          30,
+          13,
+          15,
+          2
+        ],
+        "reach": null,
+        "viewers": 3005,
+        "averageWatchSeconds": 7,
+        "skipRate": 54.2,
+        "follows": 1,
+        "description": "다이소 제품의 퀄리티에 대한 호기심을 유도하고, 포인트 메이크업 제거부터 2차 세안까지 제품별 용도를 하나의 루틴으로 소개한 콘텐츠입니다.",
+        "interpretation": "공유 13건·저장 15건이 확인됐습니다. 제품별 사용 순서를 요약하는 구성을 후속 콘텐츠에서 시험할 수 있습니다.",
+        "activity": null
+      }
+    },
+    {
+      "projectId": 1,
+      "type": "REEL",
+      "title": "이너케어",
+      "brand": "얌티",
+      "productName": "",
+      "caption": "",
+      "intention": "",
+      "role": "",
+      "videoSrc": "",
+      "thumbnailSrc": "/media/innercare-1.png",
+      "instagramUrl": "https://www.instagram.com/reel/DWsXPeLAU8Y/",
+      "contentImages": ["/media/innercare-1.png", "/media/innercare-2.png", "/media/innercare-3.png", "/media/innercare-4.png"],
+      "sample": false,
+      "insights": {
+        "views": 5266,
+        "reactions": [
+          42,
+          22,
+          0,
+          1,
+          0
+        ],
+        "reach": 3618,
+        "viewers": null,
+        "averageWatchSeconds": null,
+        "skipRate": null,
+        "follows": 1,
+        "description": "콜라나 맹물 대신 마실 음료를 찾는 상황에 제품을 연결한 공감형 콘텐츠. 개인의 맛 경험을 친근한 말투로 전달했습니다.",
+        "interpretation": "좋아요·댓글이 64건으로 반응 대부분을 차지했습니다. 타는 방법이나 맛 선택 팁을 더해 저장을 유도하는 구성을 시험할 수 있습니다.",
+        "activity": null
+      }
+    }
+  ],
+  "feedGroups": [
+    {
+      "slug": "styled",
+      "legacySlug": "skincare",
+      "title": "연출컷 (직접연출)",
+      "projectId": 1,
+      "coverUrl": "/media/editorial-serum.svg"
+    },
+    {
+      "slug": "texture",
+      "legacySlug": "makeup",
+      "title": "제형컷",
+      "projectId": 2,
+      "coverUrl": "/media/editorial-lip.svg"
+    },
+    {
+      "slug": "ai",
+      "legacySlug": "fragrance",
+      "title": "AI 활용",
+      "projectId": 3,
+      "coverUrl": "/media/editorial-scent.svg"
+    }
+  ],
+  "reelInsights": {
+    "reactionLabels": [
+      "좋아요",
+      "댓글",
+      "공유",
+      "저장",
+      "리포스트"
+    ],
+    "note": "제공한 인스타그램 인사이트 캡처 기준 누적 수치 · 게시 기간 및 광고 집행 여부 미확인",
+    "caution": "반응은 참여 인원이나 구매 전환을 의미하지 않습니다. 광고 여부와 게시 기간이 달라 단순 성과 순위로 평가하지 않습니다."
+  }
+}

@@ -1,0 +1,18 @@
+@media (hover: hover) and (pointer: fine) {
+  html, body, body * {
+    cursor: url('/media/theme/pink-cursor.svg') 1 1, auto;
+  }
+
+  body :is(a, button, [role='button'], summary),
+  body :is(a, button, [role='button'], summary) * {
+    cursor: url('/media/theme/pink-cursor.svg') 1 1, pointer;
+  }
+
+  body :is(input, textarea, [contenteditable='true']) {
+    cursor: text;
+  }
+
+  body :is(button:disabled, [aria-disabled='true']) {
+    cursor: not-allowed;
+  }
+}

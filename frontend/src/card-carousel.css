@@ -1,0 +1,32 @@
+.card-carousel{display:grid;grid-template-columns:44px minmax(0,1fr) 44px;column-gap:8px;align-items:center;min-width:0;width:100%}
+.card-carousel-controls{display:contents}
+.card-carousel-controls button{display:grid;place-items:center;grid-row:1;width:44px;height:44px;padding:0;border:0;background:transparent;box-shadow:none;color:#69415b;border-radius:0;font-size:28px;cursor:pointer}
+.card-carousel-controls button:first-child{grid-column:1}
+.card-carousel-controls button:last-child{grid-column:3}
+.card-carousel-controls button:disabled{opacity:.3;cursor:default}
+.card-carousel-controls button:focus-visible{outline:3px solid #9c477c;outline-offset:3px}
+.card-carousel-track{display:grid;grid-column:2;grid-row:1;min-width:0;grid-auto-flow:column;grid-auto-columns:calc((100% - 56px)/3);gap:28px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;scrollbar-width:none;align-items:start}
+.card-carousel-track::-webkit-scrollbar{display:none}
+.card-carousel-track>*{min-width:0;width:100%;scroll-snap-align:start}
+.card-carousel-track>.feed-cover:last-child{grid-column:auto;width:100%}
+main > section.projects-overview{padding:24px 5% 28px}
+.projects-overview > .eyebrow{margin-bottom:12px}
+.projects-overview .page-title-ko{font-size:clamp(28px,3.5vw,46px);line-height:1.35;margin:0 0 14px}
+.projects-overview > p:not(.eyebrow){font-size:14px;line-height:1.6;margin-bottom:16px}
+.projects-overview .gallery-tabs{margin:16px 0 20px;padding-bottom:8px}
+.projects-overview .gallery-tabs button{font-size:18px;padding:8px 20px}
+.projects-overview .card-carousel{margin-top:0;padding-top:0}
+.projects-overview .card-carousel-track{padding-top:0;padding-bottom:8px}
+.projects-overview .feed-cover-image{height:clamp(140px,calc(100dvh - 440px),350px);aspect-ratio:auto}
+.projects-overview .feed-cover h3{font-size:17px;margin-top:10px}
+@media(max-width:700px){.card-carousel-track{grid-auto-columns:calc((100% - 28px)/2)}}
+@media(max-width:420px){.card-carousel{grid-template-columns:32px minmax(0,1fr) 32px;column-gap:4px}.card-carousel-controls button{width:32px}.card-carousel-track{grid-auto-columns:100%}}
+.work-page .work-chapter{position:relative}
+.work-chapter-navigation{position:absolute;right:30px;top:28px;display:flex;align-items:center;gap:12px;z-index:8}
+.work-chapter-navigation button,.work-modal-navigation button{border:0;border-radius:0;background:transparent;box-shadow:none;padding:5px 10px;font-size:28px;color:#603c64;cursor:pointer;min-width:44px;min-height:44px}
+.work-chapter-navigation button:disabled,.work-modal-navigation button:disabled{opacity:.3;cursor:default}
+.work-chapter-navigation button:focus-visible,.work-modal-navigation button:focus-visible{outline:2px solid #71385b;outline-offset:2px}
+.work-chapter-navigation span{font-size:12px;color:#543153}
+.work-photo-count{position:absolute;right:8px;top:34px;padding:4px 7px;background:#fff0f8;color:#71385b;font-size:10px}
+.work-modal-navigation{display:flex;align-items:center;justify-content:center;gap:20px;padding:8px;flex-shrink:0;background:#ffeaf5}
+@media(max-width:700px){.work-chapter-navigation{top:6px;right:12px;gap:5px}}

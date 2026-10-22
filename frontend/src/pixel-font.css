@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Galmuri11';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('galmuri/dist/Galmuri11.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri11';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('galmuri/dist/Galmuri11-Bold.woff2') format('woff2');
+}
+
+:root {
+  --font-pixel: 'Galmuri11', 'Noto Sans KR', sans-serif;
+}
+
+body :is(h1, h2, h3, button, .wordmark, .site-header nav a, .pill, .eyebrow,
+  .desktop-folder span, .desktop-signal, .pixel-page-nav > a > span:last-child) {
+  font-family: var(--font-pixel);
+  letter-spacing: 0;
+}
+
+body :is(h1, h2, h3) {
+  line-height: 1.5;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+body :is(.wordmark, .site-header nav a, button, .pill, .desktop-folder span) {
+  font-weight: 700;
+}

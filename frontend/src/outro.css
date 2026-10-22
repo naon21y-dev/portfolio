@@ -1,0 +1,38 @@
+.outro-next-row { margin-left: auto; display: flex; align-self: flex-start; justify-content: flex-end; }
+.pixel-page-nav { align-items: flex-start; }
+.pixel-page-nav .pixel-nav-art { mix-blend-mode: normal; }
+.pixel-page-nav .pixel-nav-art img { top: 0; width: 100%; height: 100%; }
+.outro-next { display: block; padding: 0; border: 0; border-radius: 0; line-height: 0; background: transparent; box-shadow: none; pointer-events: auto; }
+.outro-next:hover { transform: translateY(-2px); background: transparent; filter: none; opacity: 1; box-shadow: none; }
+.outro-dialog { padding: 0; width: min(600px, calc(100% - 32px)); max-height: calc(100dvh - 40px); overflow: auto; border: 4px solid #965380; border-radius: 0; background: #fff0fa; color: #874370; box-shadow: 8px 8px 0 #6e325b66; font-family: var(--font-pixel); }
+.outro-dialog::backdrop { background: #45203888; }
+.outro-dialog.contact-selection { width: 100%; max-height: none; overflow: hidden; margin: 24px 0; padding: 0; border: 3px solid #965380; border-radius: 6px; background: #fff0fa; box-shadow: 6px 6px 0 #df9bc1; }
+.contact-selection .outro-content { min-height: 560px; padding: 70px 26px; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+.contact-selection .outro-content h1 { font-size: clamp(26px, 5vw, 48px); margin: 18px 0 32px; }
+.contact-selection .outro-contacts { width: 100%; max-width: 540px; margin: 0 auto; }
+.contact-selection .outro-content > h2 { margin-top: 18px; }
+.contact-selection .outro-return { flex-shrink: 0; }
+@media(max-width:600px) { .contact-selection .outro-content { min-height: 480px; padding: 40px 18px; } }
+.outro-toolbar { display: flex; align-items: center; justify-content: space-between; padding: 10px 14px; gap: 12px; background: #f8b3d7; border-bottom: 3px solid #965380; font-size: 10px; }
+.outro-toolbar button { border: 2px solid #965380; border-radius: 0; padding: 0 7px; font-size: 20px; background: #fff0fa; color: #874370; }
+.outro-content { padding: 50px 26px; text-align: center; }
+.outro-content h2 { font-size: clamp(20px, 4vw, 28px); margin: 18px 0 30px; }
+.outro-label { font: 11px/1.7 var(--font-pixel); color: inherit; }
+.outro-choices { display: flex; justify-content: center; gap: 24px; }
+.outro-choices button, .outro-return { background: #ffb3dc; border: 3px solid #a34d82; border-radius: 0; box-shadow: 4px 4px 0 #d786b3; color: #703354; padding: 12px 28px; font: 700 18px/1.5 var(--font-pixel); }
+.outro-choices button:hover, .outro-return:hover { transform: translateY(-3px); }
+.outro-return { font-size: 12px; margin-top: 22px; }
+.outro-contacts { display: grid; text-align: left; gap: 16px; }
+.outro-contacts a { padding: 12px 16px; border: 2px dashed #cf98b8; background: #fff9fd; overflow-wrap: anywhere; font-size: 14px; }
+.outro-contacts span { display: block; font-size: 10px; margin-bottom: 8px; color: #a06489; }
+.outro-game-over .outro-content { min-height: 560px; display: flex; flex-direction: column; justify-content: center; align-items: center; background: #39c5ec url('/media/theme/outro-world.png') center / cover no-repeat; color: #fff; }
+.outro-game-over h2 { color: #fff4b1; font-size: clamp(30px, 7vw, 52px); text-shadow: 3px 3px 0 #5e3158, -2px -2px 0 #5e3158; }
+.outro-game-over .outro-label { color: #fff; text-shadow: 1px 2px 0 #465680; }
+.outro-dialog.contact-selection.outro-game-over { position: fixed; inset: 0; z-index: 100001; width: 100%; height: 100dvh; max-height: none; margin: 0; border: 0; border-radius: 0; box-shadow: none; overflow: auto; }
+.outro-game-over .outro-toolbar { display: none; }
+.outro-game-over .outro-content { min-height: 100dvh; padding: 48px 24px; gap: 24px; }
+.outro-game-over .outro-content > h2 { font-size: clamp(52px, 11vw, 150px); line-height: 1.15; margin: 0; }
+.outro-game-over .outro-label { font-size: clamp(12px, 2vw, 22px); }
+.outro-game-over .outro-return { min-width: min(320px, 100%); min-height: 80px; padding: 20px 40px; font-size: clamp(20px, 3vw, 30px); border-width: 4px; box-shadow: 7px 7px 0 #a34d82; margin-top: 24px; }
+@media (max-width: 600px) { .outro-content { padding: 36px 18px; } }
+@media (prefers-reduced-motion: reduce) { .outro-next:hover, .outro-choices button:hover, .outro-return:hover { transform: none; } }

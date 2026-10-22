@@ -1,0 +1,20 @@
+.outro-clear { position: relative; isolation: isolate; }
+.clear-title { position: relative; z-index: 2; padding: 0 56px; margin: 18px 0 38px; max-width: 100%; }
+.contact-selection .clear-title h2 { margin: 0; color: #ffe669; font-size: clamp(36px, 7.5vw, 88px); text-shadow: 3px 3px 0 #9b597e, -1px -1px 0 #9b597e, 1px -1px 0 #9b597e, -1px 1px 0 #9b597e; }
+.contact-selection .outro-clear { height: 560px; min-height: 560px; padding: 24px 32px; }
+.contact-selection .outro-clear .clear-title { margin: 0 0 22px; }
+.contact-selection .outro-clear .outro-contacts { max-width: 850px; gap: 12px; }
+.outro-clear .outro-contacts a { padding: 12px 24px; font-size: clamp(18px, 2.5vw, 27px); line-height: 1.4; border-width: 2px; }
+.outro-clear .outro-contacts span { font-size: 14px; margin-bottom: 6px; }
+@media(max-width:600px) { .contact-selection .outro-clear { height: 480px; min-height: 480px; padding: 24px 16px; } .outro-clear .outro-contacts a { padding: 12px; font-size: clamp(15px, 4.3vw, 21px); } .outro-clear .outro-contacts span { font-size: 12px; } }
+.clear-star { position: absolute; color: #f9cf48; font-size: 42px; text-shadow: 2px 2px 0 #c37c9f; animation: clear-twinkle 2.6s ease-in-out infinite; pointer-events: none; }
+.clear-star-one { left: 6px; top: -8px; }
+.clear-star-two { left: 22px; bottom: -20px; font-size: 28px; animation-delay: .65s; }
+.clear-star-three { right: 0; bottom: -6px; animation-delay: 1.3s; }
+.clear-star-four { right: 20px; top: -25px; font-size: 28px; animation-delay: 1.95s; }
+.clear-fireworks { position: absolute; inset: 0; overflow: hidden; pointer-events: none; z-index: 3; }
+.clear-fireworks i { position: absolute; left: var(--burst-x); top: var(--burst-y); width: 12px; height: 12px; background: var(--spark-color); box-shadow: 0 0 10px var(--spark-color); opacity: 0; animation: clear-burst 2.4s var(--delay) ease-out 2 both; }
+@media(max-width:600px) { .clear-title { padding: 0 28px; } .clear-star { font-size: 30px; } .clear-star-two, .clear-star-four { font-size: 22px; } }
+@keyframes clear-burst { 0% { opacity: 0; transform: rotate(var(--angle)) translateX(0) scale(.3); } 12% { opacity: 1; } 65% { opacity: 1; } 100% { opacity: 0; transform: rotate(var(--angle)) translateX(var(--distance)) scale(.3); } }
+@keyframes clear-twinkle { 0%, 100% { opacity: .45; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.15); } }
+@media(prefers-reduced-motion:reduce) { .clear-fireworks { display: none; } .clear-star { animation: none; } }

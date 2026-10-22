@@ -1,0 +1,11 @@
+html, body, body *, body *::before, body *::after {
+  font-family: var(--font-pixel) !important;
+}
+
+body :is(p, li, dd, dt, label, input, textarea, .note, .footer-contact, .footer-bottom) {
+  letter-spacing: 0;
+}
+
+body :is(.insight-story p, .insight-interpretation p, .photo-role, .work-entry p) {
+  line-height: 1.85;
+}

@@ -1,0 +1,17 @@
+.game-route-transition{position:fixed;inset:0;z-index:100000;isolation:isolate;overflow:hidden;cursor:wait}
+.game-route-pixels{position:absolute;inset:0;display:grid;grid-template-columns:repeat(40,1fr);grid-template-rows:repeat(24,1fr)}
+.game-route-pixels i{display:block;background:var(--pixel-color);opacity:1;transform:scale(1.03)}
+.closing .game-route-pixels i{animation:pixel-fill .3s steps(3,end) var(--pixel-delay) both}
+.opening .game-route-pixels i{animation:pixel-scatter .4s steps(4,end) var(--pixel-delay) both}
+.game-route-message{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:grid;justify-items:center;gap:16px;min-width:230px;padding:26px 40px;border:4px solid #ee8dbb;background:#fffbed;box-shadow:8px 8px 0 #f3a9cd;color:#a34078;text-align:center}
+.game-route-message strong{font-size:clamp(24px,5vw,44px);line-height:1.2;color:#be438c}
+.game-route-message small{letter-spacing:3px;font-size:11px}
+.game-route-star{font-size:30px;color:#efa928}
+.game-route-loading{font-size:12px;letter-spacing:8px;color:#e979b0}
+.closing .game-route-message{animation:game-route-label .55s steps(2,end) both}
+.opening .game-route-message{animation:game-route-label-out .2s steps(2,end) both}
+@keyframes pixel-fill{from{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1.03)}}
+@keyframes pixel-scatter{from{opacity:1;transform:scale(1.03)}to{opacity:0;transform:scale(0)}}
+@keyframes game-route-label{0%,80%{opacity:0}100%{opacity:1}}
+@keyframes game-route-label-out{from{opacity:1}to{opacity:0}}
+@media(prefers-reduced-motion:reduce){.game-route-transition{display:none}}

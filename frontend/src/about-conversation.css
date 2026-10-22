@@ -1,0 +1,40 @@
+.about-conversation { position:relative; margin:54px auto 10px; max-width:850px; border:4px solid #b16c9b; background:#fff0f8; box-shadow:inset 0 0 0 3px #fffafc,5px 5px 0 #e9b4d1; padding:24px 24px 16px; font-family:var(--font-pixel); }
+.conversation-speaker { position:absolute; top:-38px; left:16px; display:flex; gap:8px; align-items:center; padding:5px 18px 5px 8px; border:3px solid #b16c9b; border-radius:6px 6px 0 0; background:#ffcfe5; color:#8b4672; font-size:13px; }
+.conversation-speaker img { width:40px; height:40px; object-fit:contain; image-rendering:pixelated; mix-blend-mode:multiply; margin-top:-16px; }
+.conversation-heading { display:flex; justify-content:space-between; align-items:start; gap:12px; }
+.conversation-heading h2 { margin:0; font-size:14px; color:#b06491; }
+.conversation-heading button { padding:0 6px; border:0; background:none; font-size:22px; color:#a2638c; line-height:1; }
+.conversation-line { min-height:110px; padding:14px 0; }
+.conversation-line h3 { font-size:17px; margin:0 0 8px; }
+.conversation-line p { font:15px/1.9 var(--font-pixel); color:#71475e; margin:0; word-break:keep-all; overflow-wrap:anywhere; }
+.conversation-controls { display:flex; justify-content:space-between; gap:12px; align-items:center; padding-top:12px; border-top:1px dashed #dbadca; font-size:11px; color:#a06a8c; }
+.conversation-controls > div { display:flex; gap:10px; }
+.conversation-controls button { padding:6px 10px; border:2px solid #bd82a5; border-radius:3px; background:#ffdaeb; color:#8f4a74; font-size:12px; }
+.conversation-controls button:disabled { opacity:.4; }
+.desktop-folder.folder-speaking { background:#ffe9af; outline:2px dashed #d6a25b; }
+main > section.about-desktop { margin-left: 0; height: var(--desktop-height, calc(100dvh - 160px)); min-height: 0; padding-bottom: 12px; display: flex; flex-direction: column; }
+.about-desktop .desktop-heading { flex-shrink: 0; }
+.about-desktop .desktop-surface { container-type: size; flex: 1; min-height: 0; width: 100%; max-width: 100%; margin: 8px auto 0; padding: 0; grid-template-columns: 1fr minmax(0, 1fr) 1fr; grid-template-rows: minmax(0, .8fr) repeat(2, minmax(0, 1fr)); gap: 4px 20px; }
+.about-desktop .desktop-profile { grid-column: 2; grid-row: 2 / 4; width: min(100%, 40cqh); margin: 0; }
+.about-desktop .profile-frame img { height: 47cqh; width: 100%; aspect-ratio: auto; object-fit: contain; }
+.about-desktop .desktop-profile h1 { font-size: clamp(12px, 3cqh, 24px); margin: 10px 0 4px; padding: 4px 8px; }
+.about-desktop .desktop-profile p { font-size: clamp(8px, 1.8cqh, 11px); }
+.about-desktop .desktop-cursor { max-height: 5cqh; width: auto; }
+.about-desktop .desktop-folder { width: 100%; max-width: 170px; padding: 4px; gap: 5px; margin: 0; }
+.about-desktop .desktop-folder img { width: min(90px, 16cqh); height: min(80px, 14cqh); object-fit: contain; }
+.about-desktop .desktop-folder span { font-size: clamp(9px, 2.4cqh, 14px); }
+.about-desktop .folder-personality { grid-column: 2; grid-row: 1; }
+.about-desktop .folder-about { grid-column: 1; grid-row: 2; }
+.about-desktop .folder-experience { grid-column: 3; grid-row: 2; }
+.about-desktop .folder-skills { grid-column: 1; grid-row: 3; }
+.about-desktop .folder-approach { grid-column: 3; grid-row: 3; }
+.about-desktop .about-conversation { position: absolute; z-index: 12; bottom: 20px; left: 24px; right: 24px; margin: 0 auto; max-height: calc(100% - 130px); overflow: visible; border: 4px solid #8f4b79; border-radius: 0; background: #fff6e8; box-shadow: inset 0 0 0 3px #fffdf8, 0 0 0 3px #edaccc, 7px 7px 0 #ae6a92; padding: 24px 24px 16px; }
+.about-desktop .conversation-speaker { top: 0; transform: translateY(-100%); left: 20px; display: flex; align-items: center; gap: 8px; border: 3px solid #8f4b79; border-radius: 0; background: #ffd3e8; box-shadow: inset 0 0 0 2px #fff4fa; padding: 6px 16px 6px 8px; color: #804067; }
+.about-desktop .conversation-speaker img { display: block; width: 38px; height: 38px; object-fit: contain; flex-shrink: 0; margin: 0; }
+.about-desktop .conversation-heading h2 { color: #a45b85; font-size: 12px; }
+.about-desktop .conversation-line { max-height: min(24dvh, 190px); min-height: 90px; overflow-y: auto; }
+.about-desktop .conversation-line h3 { color: #784464; }
+.about-desktop .conversation-controls { border-top: 2px dashed #dab3c7; }
+.about-desktop .conversation-controls button { border: 2px solid #9e5e82; border-radius: 0; background: #ffe9a1; color: #784464; box-shadow: 2px 2px 0 #c68aa6; }
+.about-desktop .conversation-controls button:disabled { box-shadow: none; }
+@media(max-width:600px) { .about-conversation { margin-top:48px; padding:20px 14px 14px; } .conversation-line { min-height:145px; } .conversation-line p { font-size:13px; line-height:1.85; } .conversation-heading h2 { font-size:12px; } .conversation-controls { gap:6px; } .conversation-controls > div { gap:6px; } .conversation-controls button { padding:6px; font-size:10px; } }

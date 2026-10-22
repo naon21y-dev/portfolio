@@ -1,0 +1,1308 @@
+{
+  "title": "Creative Journey",
+  "intro": "공간을 꾸미고 이미지를 만드는 경험이 지금의 콘텐츠 감각으로 이어졌습니다.",
+  "sections": [
+    {
+      "id": "flower",
+      "title": "Flower Practice",
+      "subtitle": "플라워 실습",
+      "paragraphs": [
+        "플라워 전공과 현장 실습을 통해 꽃과 소재를 조합하고 공간에 배치하는 경험을 쌓았습니다.",
+        "색감과 형태, 소재의 조화를 고민하며 시각적 감각을 키웠습니다."
+      ],
+      "photos": [
+        {
+          "id": "flower-table-garland",
+          "src": "/media/work/flower-table-garland.jpg",
+          "alt": "테이블을 따라 늘어뜨린 꽃과 가지 장식, 골드 식기와 유리잔을 배치한 플라워 테이블 연출",
+          "title": "플라워 테이블 연출",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-52bf8fad-4b3e-4442-ac51-1772a8c18139.jpg"
+        },
+        {
+          "id": "flower-1",
+          "src": "/media/work/flower-studio-1.jpg",
+          "alt": "꽃과 가지를 활용한 스튜디오 플라워 센터피스 연출",
+          "title": "스튜디오 플라워 센터피스 연출",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 6
+        },
+        {
+          "id": "flower-2",
+          "src": "/media/work/flower-lotte-practice.jpg",
+          "alt": "롯데호텔에서 테이블 플라워를 배치하는 실습 모습",
+          "title": "롯데호텔 현장 실습",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 9
+        },
+        {
+          "id": "flower-3",
+          "src": "/media/work/flower-sun-moon.jpg",
+          "alt": "해와달 콘셉트 돌잔치의 플라워와 테이블 연출",
+          "title": "해와달 연출",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 5
+        },
+        {
+          "id": "archive-vmd-3",
+          "src": "/media/work/archive-vmd-3.jpg",
+          "alt": "SELVATICO 상품 디스플레이",
+          "title": "SELVATICO 상품 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 3,
+          "galleryGroup": "selvatico"
+        },
+        {
+          "id": "archive-vmd-4",
+          "src": "/media/work/archive-vmd-4.jpg",
+          "alt": "SELVATICO 디스플레이",
+          "title": "SELVATICO 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 4,
+          "galleryGroup": "selvatico"
+        },
+        {
+          "id": "archive-vmd-7",
+          "src": "/media/work/archive-vmd-7.jpg",
+          "alt": "야외 웨딩 공간 연출",
+          "title": "야외 웨딩 공간 연출",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 7,
+          "galleryGroup": "outdoor-wedding"
+        },
+        {
+          "id": "archive-vmd-10",
+          "src": "/media/work/archive-vmd-10.jpg",
+          "alt": "캐롤라인 포토존 연출",
+          "title": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 10,
+          "galleryGroup": "caroline"
+        },
+        {
+          "id": "archive-vmd-8",
+          "src": "/media/work/archive-vmd-8.jpg",
+          "alt": "야외 웨딩 · 테이블과 공간",
+          "title": "야외 웨딩 · 테이블과 공간",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 8,
+          "galleryGroup": "outdoor-wedding"
+        },
+        {
+          "id": "selvatico-add-1",
+          "src": "/media/work/selvatico-add-1.jpg",
+          "alt": "SELVATICO 이끼와 식물·석재를 활용한 제품 디스플레이",
+          "title": "SELVATICO 디스플레이 · 전체 구성",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "selvatico",
+          "sourceFile": "codex-clipboard-cf7fbfdd-f742-43ff-a86f-a5f33b948c0f.jpg"
+        },
+        {
+          "id": "selvatico-add-2",
+          "src": "/media/work/selvatico-add-2.jpg",
+          "alt": "SELVATICO 유칼립투스 바디 클렌저 디테일",
+          "title": "SELVATICO 디스플레이 · 제품 디테일",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "selvatico",
+          "sourceFile": "codex-clipboard-bf447636-0420-4b20-8a9f-4ebc94df4ce1.jpg"
+        },
+        {
+          "id": "emart-landscape-2",
+          "src": "/media/work/emart-landscape-2.jpg",
+          "alt": "이마트 실내조경 흰 기둥과 식재 공간 전체 구성",
+          "title": "이마트 실내조경",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "emart-landscape",
+          "sourceFile": "codex-clipboard-82be3f6d-e716-463c-ae99-a5dfdcd2fdb7.jpg"
+        },
+        {
+          "id": "emart-landscape-1",
+          "src": "/media/work/emart-landscape-1.jpg",
+          "alt": "이마트 실내조경 식물 배치 작업 모습",
+          "title": "이마트 실내조경",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "emart-landscape",
+          "sourceFile": "codex-clipboard-20787295-7f25-4494-8cba-ccd82fff1da9.jpg"
+        },
+        {
+          "id": "emart-landscape-3",
+          "src": "/media/work/emart-landscape-3.jpg",
+          "alt": "이마트 실내조경 기둥 상단 식물 장식 작업",
+          "title": "이마트 실내조경",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "emart-landscape",
+          "sourceFile": "codex-clipboard-f273185f-94a0-4226-915c-ced210cf962c.jpg"
+        },
+        {
+          "id": "emart-landscape-5",
+          "src": "/media/work/emart-landscape-5.jpg",
+          "alt": "이마트 실내조경 식물과 구형 조명 연출",
+          "title": "이마트 실내조경",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "emart-landscape",
+          "sourceFile": "codex-clipboard-cf5cabab-8633-4f0c-aa9e-0d89fbe831e8.jpg"
+        },
+        {
+          "id": "wedding-table-1",
+          "src": "/media/work/wedding-table-1.jpg",
+          "title": "웨딩 테이블 연출",
+          "alt": "핑크·화이트 꽃과 촛대를 배치한 웨딩 테이블 센터피스",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "wedding-table",
+          "sourceFile": "codex-clipboard-ed323c99-fa69-44ca-a553-efb38abedaa9.jpg"
+        },
+        {
+          "id": "wedding-table-2",
+          "src": "/media/work/wedding-table-2.jpg",
+          "title": "웨딩 테이블 연출",
+          "alt": "실버 리본과 식기·캔들을 배치한 웨딩 테이블 세팅",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "wedding-table",
+          "sourceFile": "codex-clipboard-ccd0bd8d-cc96-4958-b176-63bb1239c2df.jpg"
+        },
+        {
+          "id": "alice-flower-2",
+          "src": "/media/work/alice-flower-2.jpg",
+          "title": "이상한 나라의 앨리스 포토존 연출",
+          "alt": "이상한 나라의 앨리스 포토존 연출 테마 하트 장식과 카드·플라워 공간 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "alice-flower",
+          "sourceFile": "codex-clipboard-501aefcc-dafd-4198-94f9-00cf9b5f6134.jpg"
+        },
+        {
+          "id": "alice-flower-1",
+          "src": "/media/work/alice-flower-1.jpg",
+          "title": "이상한 나라의 앨리스 포토존 연출",
+          "alt": "이상한 나라의 앨리스 포토존 연출 테마 카드 병정과 구름 의자 디테일",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "alice-flower",
+          "sourceFile": "codex-clipboard-294cf713-f425-459d-b148-c4463b72cd70.jpg"
+        },
+        {
+          "id": "yellow-basket-2",
+          "src": "/media/work/yellow-basket-2.jpg",
+          "title": "옐로 바스켓 연출",
+          "alt": "야외 테이블 위 노란 패브릭과 꽃·과일·과자를 배치한 바스켓 전체 구성",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "yellow-basket",
+          "sourceFile": "codex-clipboard-a74dea61-39d9-4284-a63e-fa51b405be97.jpg"
+        },
+        {
+          "id": "yellow-basket-1",
+          "src": "/media/work/yellow-basket-1.jpg",
+          "title": "옐로 바스켓 연출",
+          "alt": "노란 패브릭과 꽃·과일·과자를 배치한 바스켓 위쪽 디테일",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "yellow-basket",
+          "sourceFile": "codex-clipboard-39f9d36a-fd9a-43f2-9d7a-54abb4d16d77.jpg"
+        },
+        {
+          "id": "caroline-add-1",
+          "src": "/media/work/caroline-add-1.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-5107cbaf-f273-43f7-b93e-16586f376a67.jpg"
+        },
+        {
+          "id": "caroline-add-2",
+          "src": "/media/work/caroline-add-2.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-9d8e6a2d-57cb-4b56-aaec-360957d4dd49.jpg"
+        },
+        {
+          "id": "caroline-add-3",
+          "src": "/media/work/caroline-add-3.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-3fa18bca-354e-4b6a-9b7e-812c64af146e.jpg"
+        },
+        {
+          "id": "caroline-add-4",
+          "src": "/media/work/caroline-add-4.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-02c63f41-e012-444d-87d2-6df84c48fbb0.jpg"
+        },
+        {
+          "id": "caroline-add-5",
+          "src": "/media/work/caroline-add-5.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-ee5a324d-8614-44c1-825d-4053cb09cf3e.jpg"
+        },
+        {
+          "id": "caroline-add-6",
+          "src": "/media/work/caroline-add-6.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-a01408e3-9ee2-46c4-a1f1-da7a7d89c296.jpg"
+        },
+        {
+          "id": "caroline-add-7",
+          "src": "/media/work/caroline-add-7.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-e104f661-fb8b-4fa0-a864-558fca43eeb8.jpg"
+        },
+        {
+          "id": "caroline-add-8",
+          "src": "/media/work/caroline-add-8.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-aecde257-e7a3-491e-bf7c-7f7bd1d63921.jpg"
+        },
+        {
+          "id": "caroline-add-9",
+          "src": "/media/work/caroline-add-9.jpg",
+          "title": "캐롤라인 포토존 연출",
+          "alt": "캐롤라인 포토존 연출",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "caroline",
+          "sourceFile": "codex-clipboard-f8dded3c-2829-4c05-a89e-e792afa0a08f.jpg"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "title": "Spatial Styling",
+      "subtitle": "공간 연출",
+      "paragraphs": [
+        "롯데홈쇼핑 연출팀과 행사·전시 현장에서 공간 연출 및 디스플레이를 경험했습니다.",
+        "공간의 목적과 분위기에 맞춰 시선을 끄는 배치를 고민했습니다."
+      ],
+      "photos": [
+        {
+          "id": "space-clio-melacare",
+          "src": "/media/work/clio-homeshopping.jpg",
+          "alt": "홈쇼핑 스튜디오에서 CLIO 멜라케어 선크림과 틴트를 꽃·유리 소품과 함께 배치한 디스플레이",
+          "title": "CLIO 홈쇼핑 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-079f5820-3cbd-48be-ac67-3eb92f25693c.jpg"
+        },
+        {
+          "id": "space-1",
+          "src": "/media/work/jas-ectoin-1.jpg",
+          "alt": "JAS 엑토인 크림과 골드·크리스털 소품, 핑크 장미를 배치한 디스플레이",
+          "title": "JAS 엑토인 크림 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "jas-ectoin",
+          "sourceFile": "codex-clipboard-088dc976-091f-4675-8c0a-3eaa378110bf.jpg"
+        },
+        {
+          "id": "space-2",
+          "src": "/media/work/space-lash-serum.jpg",
+          "alt": "인물 없이 속눈썹영양제와 크리스털 소품을 배치한 디스플레이",
+          "title": "속눈썹영양제 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 14,
+          "galleryGroup": "home-md-lash"
+        },
+        {
+          "id": "space-3",
+          "src": "/media/work/home-add-1.jpg",
+          "alt": "인물 없이 유시몰 치약과 소품을 배치한 제품 디스플레이",
+          "title": "유시몰 치약 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-euthymol",
+          "sourceFile": "IMG_7589.jpeg"
+        },
+        {
+          "id": "space-4",
+          "src": "/media/work/space-cloud-zero.jpg",
+          "alt": "인물 없이 클라우드제로 제품을 배치한 디스플레이",
+          "title": "클라우드제로 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 12
+        },
+        {
+          "id": "home-add-2",
+          "src": "/media/work/home-add-2.jpg",
+          "title": "뼈엔 MBP 홈쇼핑 디스플레이",
+          "alt": "뼈엔 MBP 홈쇼핑 디스플레이 · 사진 2",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-mbp",
+          "sourceFile": "codex-clipboard-84a6d76d-0666-43f5-899b-66cc663b748f.jpg"
+        },
+        {
+          "id": "home-add-3",
+          "src": "/media/work/home-add-3.jpg",
+          "title": "올리브 크림 디스플레이",
+          "alt": "올리브 크림 디스플레이 · 사진 3",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-olive-cream",
+          "sourceFile": "codex-clipboard-727868b3-1b75-4ade-b57d-f0dc1e9ff9d7.jpg"
+        },
+        {
+          "id": "home-add-4",
+          "src": "/media/work/home-add-4.jpg",
+          "title": "Tooth Granule 디스플레이",
+          "alt": "Tooth Granule 디스플레이 · 사진 4",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-tooth-granule",
+          "sourceFile": "codex-clipboard-7cff4a4d-2220-4205-affe-98efc5ccd896.jpg"
+        },
+        {
+          "id": "home-add-5",
+          "src": "/media/work/home-add-5.jpg",
+          "title": "MD 속눈썹영양제 디스플레이",
+          "alt": "MD 속눈썹영양제 디스플레이 · 사진 5",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-md-lash",
+          "sourceFile": "codex-clipboard-13518868-54c5-4fe4-8b9d-7272a4ed41ca.jpg"
+        },
+        {
+          "id": "home-add-6",
+          "src": "/media/work/home-add-6.jpg",
+          "title": "MD 속눈썹영양제 디스플레이",
+          "alt": "MD 속눈썹영양제 디스플레이 · 사진 6",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-md-lash",
+          "sourceFile": "codex-clipboard-25cb88d0-bb35-4556-a45e-2ef43483bd04.jpg"
+        },
+        {
+          "id": "home-add-7",
+          "src": "/media/work/home-add-7.jpg",
+          "title": "CLIO 쿠션 디스플레이",
+          "alt": "CLIO 쿠션 디스플레이 · 사진 7",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-clio-cushion",
+          "sourceFile": "codex-clipboard-1e1d31a2-14ba-431a-a80a-11442adf52ca.jpg"
+        },
+        {
+          "id": "home-add-8",
+          "src": "/media/work/home-add-8.jpg",
+          "title": "CLIO 쿠션 디스플레이",
+          "alt": "CLIO 쿠션 디스플레이 · 사진 8",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-clio-cushion",
+          "sourceFile": "codex-clipboard-fa5e4432-6614-422e-be0d-8b6cc8439d54.jpg"
+        },
+        {
+          "id": "home-add-9",
+          "src": "/media/work/home-add-9.jpg",
+          "title": "CLIO 쿠션 디스플레이",
+          "alt": "CLIO 쿠션 디스플레이 · 사진 9",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-clio-cushion",
+          "sourceFile": "codex-clipboard-bd2bbd68-cc62-41a8-8110-d5047d168965.jpg"
+        },
+        {
+          "id": "home-add-19",
+          "src": "/media/work/home-add-19.jpg",
+          "title": "CLIO 쿠션 디스플레이",
+          "alt": "CLIO 쿠션 디스플레이 · 사진 19",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-clio-cushion",
+          "sourceFile": "codex-clipboard-451e2eae-b30b-430a-916d-faddf604588a.jpg"
+        },
+        {
+          "id": "home-add-10",
+          "src": "/media/work/home-add-10.jpg",
+          "title": "카무트 효소 디스플레이",
+          "alt": "카무트 효소 디스플레이 · 사진 10",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-kamut",
+          "sourceFile": "codex-clipboard-5919f9ec-7301-440a-b6a4-9ab94be59033.jpg"
+        },
+        {
+          "id": "home-add-11",
+          "src": "/media/work/home-add-11.jpg",
+          "title": "카무트 효소 디스플레이",
+          "alt": "카무트 효소 디스플레이 · 사진 11",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-kamut",
+          "sourceFile": "codex-clipboard-22f2b5b6-2a97-4463-acc0-bf4a113d2193.jpg"
+        },
+        {
+          "id": "home-add-12",
+          "src": "/media/work/home-add-12.jpg",
+          "title": "ESTNU 글루타치온 디스플레이",
+          "alt": "ESTNU 글루타치온 디스플레이 · 사진 12",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-estinu",
+          "sourceFile": "codex-clipboard-83c1dd67-ded4-4f53-9c9e-c1984fdf1e71.jpg"
+        },
+        {
+          "id": "home-add-13",
+          "src": "/media/work/home-add-13.jpg",
+          "title": "ESTNU 글루타치온 디스플레이",
+          "alt": "ESTNU 글루타치온 디스플레이 · 사진 13",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-estinu",
+          "sourceFile": "codex-clipboard-844e6c08-f39b-400b-bae1-d2a8c5b90b20.jpg"
+        },
+        {
+          "id": "home-add-14",
+          "src": "/media/work/home-add-14.jpg",
+          "title": "ESTNU 글루타치온 디스플레이",
+          "alt": "ESTNU 글루타치온 디스플레이 · 사진 14",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-estinu",
+          "sourceFile": "codex-clipboard-2ebbb852-b201-460b-b2eb-e82d2962a88b.jpg"
+        },
+        {
+          "id": "home-add-15",
+          "src": "/media/work/home-add-15.jpg",
+          "title": "ESTNU 글루타치온 디스플레이",
+          "alt": "ESTNU 글루타치온 디스플레이 · 사진 15",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-estinu",
+          "sourceFile": "codex-clipboard-74cd836a-a747-4465-ac80-0373d1b81a7b.jpg"
+        },
+        {
+          "id": "home-add-16",
+          "src": "/media/work/home-add-16.jpg",
+          "title": "AHC 쿠션 디스플레이",
+          "alt": "AHC 쿠션 디스플레이 · 사진 16",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-ahc",
+          "sourceFile": "codex-clipboard-ca0bb498-6afe-4d97-b9b6-61f040de34df.jpg"
+        },
+        {
+          "id": "home-add-17",
+          "src": "/media/work/home-add-17.jpg",
+          "title": "헤어 스타일러 디스플레이",
+          "alt": "헤어 스타일러 디스플레이 · 사진 17",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-hair-styler",
+          "sourceFile": "codex-clipboard-7f1b30e6-d327-4dce-a076-d61c6cbfb1bb.jpg"
+        },
+        {
+          "id": "home-add-18",
+          "src": "/media/work/home-add-18.jpg",
+          "title": "헤어 스타일러 디스플레이",
+          "alt": "헤어 스타일러 디스플레이 · 사진 18",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-hair-styler",
+          "sourceFile": "codex-clipboard-8603f017-66fa-483d-a63e-3de973e995b3.jpg"
+        },
+        {
+          "id": "home-add-20",
+          "src": "/media/work/home-add-20.jpg",
+          "title": "베르가못샷 디스플레이",
+          "alt": "베르가못샷 디스플레이 · 사진 20",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-liquid-shot",
+          "sourceFile": "codex-clipboard-35d08a45-a706-4e90-9437-6a923699737b.jpg"
+        },
+        {
+          "id": "home-add-21",
+          "src": "/media/work/home-add-21.jpg",
+          "title": "링티 디스플레이",
+          "alt": "링티 디스플레이 · 사진 21",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "home-vita-retinol",
+          "sourceFile": "codex-clipboard-794dc464-ba70-433a-ad2f-248a914b482c.jpg"
+        },
+        {
+          "id": "jas-ectoin-2",
+          "src": "/media/work/jas-ectoin-2.jpg",
+          "alt": "JAS 엑토인 크림 디스플레이 · 추가 사진 2",
+          "title": "JAS 엑토인 크림 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "jas-ectoin",
+          "sourceFile": "codex-clipboard-36a04d47-db75-430f-97ca-1034b905e776.jpg"
+        },
+        {
+          "id": "jas-ectoin-3",
+          "src": "/media/work/jas-ectoin-3.jpg",
+          "alt": "JAS 엑토인 크림 디스플레이 · 추가 사진 3",
+          "title": "JAS 엑토인 크림 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "jas-ectoin",
+          "sourceFile": "codex-clipboard-2a48226c-f90e-4447-a38a-e6df35261a2a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "personal-design",
+      "title": "Personal Design",
+      "subtitle": "디자인 개인작업물",
+      "paragraphs": [
+        "포스터·북커버·웹 상세페이지·배너 등 다양한 형식으로 표현한 개인 디자인 작업입니다."
+      ],
+      "photos": [
+        {
+          "id": "personal-design-1",
+          "src": "/media/work/personal-poster.jpg",
+          "alt": "제주 들불축제 포스터 개인 디자인 목업",
+          "title": "제주 들불축제 포스터 · 개인작업",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 11
+        },
+        {
+          "id": "personal-design-2",
+          "src": "/media/work/personal-book-cover.jpg",
+          "alt": "너는 생각보다 자소서를 잘 쓴다 북커버 개인 디자인 목업",
+          "title": "북커버 디자인 · 개인작업",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 25
+        },
+        {
+          "id": "personal-design-3",
+          "src": "/media/work/personal-jewelry.jpg",
+          "alt": "주얼리 상세페이지 개인 디자인 목업",
+          "title": "주얼리 상세페이지 · 개인작업",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 37
+        },
+        {
+          "id": "personal-design-4",
+          "src": "/media/work/personal-banner.jpg",
+          "alt": "던킨 웹 배너 개인 디자인 목업",
+          "title": "웹 배너 디자인 · 개인작업",
+          "role": "",
+          "placeholder": false,
+          "sourcePage": 43
+        },
+        {
+          "id": "archive-design-9",
+          "src": "/media/work/archive-design-9.jpg",
+          "alt": "ASPaC 포스터",
+          "title": "ASPaC 포스터",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 9
+        },
+        {
+          "id": "archive-design-13",
+          "src": "/media/work/archive-design-13.jpg",
+          "alt": "제주 들불축제 브로슈어",
+          "title": "제주 들불축제 브로슈어",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 13,
+          "galleryGroup": "jeju-print"
+        },
+        {
+          "id": "archive-design-15",
+          "src": "/media/work/archive-design-15.jpg",
+          "alt": "제주 들불축제 티켓",
+          "title": "제주 들불축제 티켓",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 15,
+          "galleryGroup": "jeju-print"
+        },
+        {
+          "id": "archive-design-18",
+          "src": "/media/work/archive-design-18.jpg",
+          "alt": "캘리그래피 포스터",
+          "title": "캘리그래피 포스터",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 18
+        },
+        {
+          "id": "archive-design-27",
+          "src": "/media/work/archive-design-27.jpg",
+          "alt": "판타지 북커버",
+          "title": "판타지 북커버",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 27
+        },
+        {
+          "id": "archive-design-29",
+          "src": "/media/work/archive-design-29.jpg",
+          "alt": "타이포그래피 북커버",
+          "title": "타이포그래피 북커버",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 29
+        },
+        {
+          "id": "archive-design-31",
+          "src": "/media/work/archive-design-31.jpg",
+          "alt": "매거진 커버",
+          "title": "매거진 커버",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 31
+        },
+        {
+          "id": "archive-design-33",
+          "src": "/media/work/archive-design-33.jpg",
+          "alt": "기관 홍보물 디자인",
+          "title": "기관 홍보물 디자인",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 33
+        },
+        {
+          "id": "archive-design-39",
+          "src": "/media/work/archive-design-39.jpg",
+          "alt": "카페 웹페이지",
+          "title": "카페 웹페이지",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 39
+        },
+        {
+          "id": "archive-design-20",
+          "src": "/media/work/archive-design-20.jpg",
+          "alt": "타이포그래피 포스터",
+          "title": "타이포그래피 포스터",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 20
+        },
+        {
+          "id": "archive-design-22",
+          "src": "/media/work/archive-design-22.jpg",
+          "alt": "레터링 모바일 배경",
+          "title": "레터링 모바일 배경",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 22
+        },
+        {
+          "id": "archive-design-41",
+          "src": "/media/work/archive-design-41.jpg",
+          "alt": "브랜드 그래픽 목업",
+          "title": "브랜드 그래픽 목업",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPORLIO (디자인).pdf",
+          "sourcePage": 41
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "title": "Visual Design",
+      "subtitle": "디자인 실무",
+      "paragraphs": [
+        "리얼닥터에서 디자이너로 근무하며 시각적 표현 역량을 쌓았습니다."
+      ],
+      "draftNote": "아래에는 실제 담당했던 디자인 작업을 선별해 소개할 예정입니다.",
+      "photos": [
+        {
+          "id": "design-1",
+          "src": "/media/work/realdoctor-collection.png",
+          "alt": "리얼닥터 웹배너 디자인 디자인",
+          "title": "웹배너 디자인",
+          "role": "",
+          "placeholder": false
+        },
+        {
+          "id": "design-2",
+          "src": "/media/work/realdoctor-olive-oil.png",
+          "alt": "닥터 픽 엑스트라버진 올리브오일 패키지 디자인",
+          "title": "닥터 픽 엑스트라버진 올리브오일 패키지 디자인",
+          "role": "",
+          "placeholder": false
+        },
+        {
+          "id": "design-3",
+          "src": "/media/work/realdoctor-probiotics.png",
+          "alt": "리얼닥터 더 100 시크릿 포 우먼 유산균 제품 비주얼",
+          "title": "더 100 시크릿 포 우먼 유산균",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "the100"
+        },
+        {
+          "id": "design-add-1",
+          "src": "/media/work/realdoctor-add-1.jpg",
+          "alt": "리얼닥터 더 100 유산균 · 캡슐과 제품",
+          "title": "더 100 유산균 · 캡슐과 제품",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-1da75834-2d64-42ba-84e4-191176f379b2.jpg",
+          "galleryGroup": "the100"
+        },
+        {
+          "id": "design-add-2",
+          "src": "/media/work/realdoctor-add-2.jpg",
+          "alt": "리얼닥터 알부민 활력 플러스 · 전체 디스플레이",
+          "title": "알부민 활력 플러스 · 전체 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-f75fbd09-c92e-4aa2-aca0-af2b6110aefb.jpg",
+          "galleryGroup": "albumin"
+        },
+        {
+          "id": "design-add-3",
+          "src": "/media/work/realdoctor-add-3.jpg",
+          "alt": "리얼닥터 더 100 유산균 · 패키지 구성",
+          "title": "더 100 유산균 · 패키지 구성",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-acb16432-45df-4d99-9d39-ff61a6b1a597.jpg",
+          "galleryGroup": "the100"
+        },
+        {
+          "id": "design-add-4",
+          "src": "/media/work/realdoctor-add-4.jpg",
+          "alt": "리얼닥터 알부민 활력 플러스 · 디테일",
+          "title": "알부민 활력 플러스 · 디테일",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-879fdb04-a718-4583-87b7-f190af34a47a.jpg",
+          "galleryGroup": "albumin"
+        },
+        {
+          "id": "design-add-5",
+          "src": "/media/work/realdoctor-add-5.jpg",
+          "alt": "닥터 픽 생 유산균 연출 컷",
+          "title": "닥터 픽 생 유산균 연출 컷",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-e7972b76-e061-4a3a-8a54-c2c7d80fe20c.jpg",
+          "galleryGroup": "doctorpick"
+        },
+        {
+          "id": "design-add-6",
+          "src": "/media/work/realdoctor-add-6.jpg",
+          "alt": "닥터 픽 생 유산균 연출 컷",
+          "title": "닥터 픽 생 유산균 연출 컷",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "codex-clipboard-eccd5d1b-9521-421a-bf15-774cba7d677b.jpg",
+          "galleryGroup": "doctorpick"
+        }
+      ]
+    },
+    {
+      "id": "shopping-display",
+      "title": "Shopping Mall Display",
+      "subtitle": "쇼핑몰 디스플레이",
+      "paragraphs": [
+        "상품과 소품의 색감·소재를 조합해 구성한 쇼핑몰 디스플레이 작업입니다."
+      ],
+      "photos": [
+        {
+          "id": "archive-vmd-15",
+          "src": "/media/work/archive-vmd-15.jpg",
+          "alt": "잡화 디스플레이",
+          "title": "잡화 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 15,
+          "galleryGroup": "pink-shoes"
+        },
+        {
+          "id": "archive-vmd-18",
+          "src": "/media/work/archive-vmd-18.jpg",
+          "alt": "슈즈 디스플레이",
+          "title": "슈즈 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 18
+        },
+        {
+          "id": "archive-vmd-20",
+          "src": "/media/work/archive-vmd-20.jpg",
+          "alt": "플라워 니트 모자와 패키지·소품 디스플레이",
+          "title": "플라워 니트 모자 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 20,
+          "galleryGroup": "crochet-hat"
+        },
+        {
+          "id": "archive-vmd-16",
+          "src": "/media/work/archive-vmd-16.jpg",
+          "alt": "크리스마스 컨셉 슈즈 디스플레이",
+          "title": "크리스마스 컨셉 슈즈 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 16,
+          "galleryGroup": "shopping-sneakers"
+        },
+        {
+          "id": "archive-vmd-17",
+          "src": "/media/work/archive-vmd-17.jpg",
+          "alt": "슈즈와 시즌 소품 연출",
+          "title": "슈즈와 시즌 소품 연출",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 17,
+          "galleryGroup": "shopping-sneakers"
+        },
+        {
+          "id": "archive-vmd-19",
+          "src": "/media/work/archive-vmd-19.jpg",
+          "alt": "핑크 모자 디스플레이",
+          "title": "핑크 모자 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 19,
+          "galleryGroup": "pink-shoes"
+        },
+        {
+          "id": "archive-vmd-21",
+          "src": "/media/work/archive-vmd-21.jpg",
+          "alt": "의류 컬러 디스플레이",
+          "title": "의류 컬러 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 21,
+          "galleryGroup": "apparel-display"
+        },
+        {
+          "id": "archive-vmd-22",
+          "src": "/media/work/archive-vmd-22.jpg",
+          "alt": "의류 소재와 컬러 연출",
+          "title": "의류 소재와 컬러 연출",
+          "role": "",
+          "placeholder": false,
+          "sourceFile": "정여원_PORTPOLIO(VMD).pdf",
+          "sourcePage": 22,
+          "galleryGroup": "apparel-display"
+        },
+        {
+          "id": "shopping-add-1",
+          "src": "/media/work/shopping-add-1.jpg",
+          "alt": "퍼 부츠 디스플레이 · 사진 1",
+          "title": "퍼 부츠 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-boots",
+          "sourceFile": "codex-clipboard-8e4f36ce-d824-4382-b4a4-5abfe7fc7ed6.jpg"
+        },
+        {
+          "id": "shopping-add-4",
+          "src": "/media/work/shopping-add-4.jpg",
+          "alt": "퍼 부츠 디스플레이 · 사진 4",
+          "title": "퍼 부츠 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-boots",
+          "sourceFile": "codex-clipboard-a6b392ed-3692-4c0e-bb32-0e90db4ff8b7.jpg"
+        },
+        {
+          "id": "shopping-add-5",
+          "src": "/media/work/shopping-add-5.jpg",
+          "alt": "퍼 부츠 디스플레이 · 사진 5",
+          "title": "퍼 부츠 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-boots",
+          "sourceFile": "codex-clipboard-a4475a2b-b25e-487d-87f9-86364b10c652.jpg"
+        },
+        {
+          "id": "shopping-add-16",
+          "src": "/media/work/shopping-add-16.jpg",
+          "alt": "퍼 부츠 디스플레이 · 사진 16",
+          "title": "퍼 부츠 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-boots",
+          "sourceFile": "codex-clipboard-98a43f6e-c866-427e-9fd2-d397ffa8bb0c.jpg"
+        },
+        {
+          "id": "shopping-add-2",
+          "src": "/media/work/shopping-add-2.jpg",
+          "alt": "그래픽 티셔츠 디스플레이 · 사진 2",
+          "title": "그래픽 티셔츠 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-shirts",
+          "sourceFile": "codex-clipboard-78588b55-3f21-45de-a8f6-235f288e5244.jpg"
+        },
+        {
+          "id": "shopping-add-7",
+          "src": "/media/work/shopping-add-7.jpg",
+          "alt": "그래픽 티셔츠 디스플레이 · 사진 7",
+          "title": "그래픽 티셔츠 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-shirts",
+          "sourceFile": "codex-clipboard-dd3e7ce5-4eef-4018-9a2c-1d32a157e288.jpg"
+        },
+        {
+          "id": "shopping-add-3",
+          "src": "/media/work/shopping-add-3.jpg",
+          "alt": "컬러 스니커즈 디스플레이 · 사진 3",
+          "title": "컬러 스니커즈 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-sneakers",
+          "sourceFile": "codex-clipboard-71ccc0f7-5c49-449e-a9f6-bcaabf32d269.jpg"
+        },
+        {
+          "id": "shopping-add-8",
+          "src": "/media/work/shopping-add-8.jpg",
+          "alt": "컬러 스니커즈 디스플레이 · 사진 8",
+          "title": "컬러 스니커즈 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-sneakers",
+          "sourceFile": "codex-clipboard-17d665b4-f7be-4f23-8ec7-edda6d4692d7.jpg"
+        },
+        {
+          "id": "shopping-add-9",
+          "src": "/media/work/shopping-add-9.jpg",
+          "alt": "컬러 스니커즈 디스플레이 · 사진 9",
+          "title": "컬러 스니커즈 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-sneakers",
+          "sourceFile": "codex-clipboard-d652cb9e-cfff-4cfe-9691-f07554f7ebe7.jpg"
+        },
+        {
+          "id": "shopping-add-17",
+          "src": "/media/work/shopping-add-17.jpg",
+          "alt": "퍼 뮬 디스플레이 · 사진 17",
+          "title": "퍼 뮬 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-mules",
+          "sourceFile": "codex-clipboard-363d593e-8d80-4dca-be6a-302b80bfe2fa.jpg"
+        },
+        {
+          "id": "shopping-add-6",
+          "src": "/media/work/shopping-add-6.jpg",
+          "alt": "퍼 뮬 디스플레이 · 사진 6",
+          "title": "퍼 뮬 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-mules",
+          "sourceFile": "codex-clipboard-fd4bed77-73fe-43b0-b026-154328f7d8a8.jpg"
+        },
+        {
+          "id": "shopping-add-18",
+          "src": "/media/work/shopping-add-18.jpg",
+          "alt": "퍼 뮬 디스플레이 · 사진 18",
+          "title": "퍼 뮬 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-mules",
+          "sourceFile": "codex-clipboard-37814c66-ca03-480b-a970-a720e6fb2979.jpg"
+        },
+        {
+          "id": "shopping-add-13",
+          "src": "/media/work/shopping-add-13.jpg",
+          "alt": "리본 퍼 슬리퍼 디스플레이 · 사진 13",
+          "title": "리본 퍼 슬리퍼 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-slippers",
+          "sourceFile": "codex-clipboard-b2af509c-32f6-41de-a4d9-1bcc01f67353.jpg"
+        },
+        {
+          "id": "shopping-add-10",
+          "src": "/media/work/shopping-add-10.jpg",
+          "alt": "리본 퍼 슬리퍼 디스플레이 · 사진 10",
+          "title": "리본 퍼 슬리퍼 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-slippers",
+          "sourceFile": "codex-clipboard-d79520dd-ed5f-4533-b101-382752c942fb.jpg"
+        },
+        {
+          "id": "shopping-add-11",
+          "src": "/media/work/shopping-add-11.jpg",
+          "alt": "리본 퍼 슬리퍼 디스플레이 · 사진 11",
+          "title": "리본 퍼 슬리퍼 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-slippers",
+          "sourceFile": "codex-clipboard-dc042552-467c-4744-af69-9d00a225723c.jpg"
+        },
+        {
+          "id": "shopping-add-12",
+          "src": "/media/work/shopping-add-12.jpg",
+          "alt": "리본 퍼 슬리퍼 디스플레이 · 사진 12",
+          "title": "리본 퍼 슬리퍼 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-slippers",
+          "sourceFile": "codex-clipboard-8a9f075b-bec5-47f3-a7ae-18543ad5dbd7.jpg"
+        },
+        {
+          "id": "shopping-add-15",
+          "src": "/media/work/shopping-add-15.jpg",
+          "alt": "리본 퍼 슬리퍼 디스플레이 · 사진 15",
+          "title": "리본 퍼 슬리퍼 디스플레이",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "shopping-slippers",
+          "sourceFile": "codex-clipboard-5e730886-0a49-4cf5-b08b-063ba590af40.jpg"
+        },
+        {
+          "id": "shopping-extra-15",
+          "src": "/media/work/shopping-extra-15.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 15",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-83c03a1b-6cc9-4be6-ad46-bdf147b5ab49.jpg"
+        },
+        {
+          "id": "shopping-extra-1",
+          "src": "/media/work/shopping-extra-1.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 1",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-12ddd52d-c6f6-4a21-9429-44d40c151490.jpg"
+        },
+        {
+          "id": "shopping-extra-11",
+          "src": "/media/work/shopping-extra-11.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 11",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-91229b41-84e0-4af9-a5c4-ca54ca90bae4.jpg"
+        },
+        {
+          "id": "shopping-extra-12",
+          "src": "/media/work/shopping-extra-12.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 12",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-6897669d-00bd-4649-882b-68bdc7624abf.jpg"
+        },
+        {
+          "id": "shopping-extra-13",
+          "src": "/media/work/shopping-extra-13.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 13",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-268feda8-d167-43b1-8e66-9254943a12ed.jpg"
+        },
+        {
+          "id": "shopping-extra-14",
+          "src": "/media/work/shopping-extra-14.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 14",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-6e9a9e95-7526-4586-b134-1bc6dc5f753d.jpg"
+        },
+        {
+          "id": "shopping-extra-16",
+          "src": "/media/work/shopping-extra-16.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 16",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-776b6d86-b2ad-4730-a75e-653fd528082e.jpg"
+        },
+        {
+          "id": "shopping-extra-17",
+          "src": "/media/work/shopping-extra-17.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 17",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-fddd8938-3d1c-4dee-a879-7af201312f02.jpg"
+        },
+        {
+          "id": "shopping-extra-18",
+          "src": "/media/work/shopping-extra-18.jpg",
+          "title": "레트로 스니커즈 디스플레이",
+          "alt": "레트로 스니커즈 디스플레이 · 사진 18",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "retro-sneakers",
+          "sourceFile": "codex-clipboard-fb524f6c-bc39-4090-b136-61c6c90e0c73.jpg"
+        },
+        {
+          "id": "shopping-extra-2",
+          "src": "/media/work/shopping-extra-2.jpg",
+          "title": "플라워 크로셰 탑 디스플레이",
+          "alt": "플라워 크로셰 탑 디스플레이 · 사진 2",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-top",
+          "sourceFile": "codex-clipboard-89c4a384-8c8c-47e4-b2a5-6b87789f4b68.jpg"
+        },
+        {
+          "id": "shopping-extra-3",
+          "src": "/media/work/shopping-extra-3.jpg",
+          "title": "플라워 크로셰 탑 디스플레이",
+          "alt": "플라워 크로셰 탑 디스플레이 · 사진 3",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-top",
+          "sourceFile": "codex-clipboard-37f3c283-6726-47e4-ae35-548c10cdce31.jpg"
+        },
+        {
+          "id": "shopping-extra-8",
+          "src": "/media/work/shopping-extra-8.jpg",
+          "title": "플라워 크로셰 탑 디스플레이",
+          "alt": "플라워 크로셰 탑 디스플레이 · 사진 8",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-top",
+          "sourceFile": "codex-clipboard-dd85eda6-a247-4620-9ca0-03a3d6270508.jpg"
+        },
+        {
+          "id": "shopping-extra-9",
+          "src": "/media/work/shopping-extra-9.jpg",
+          "title": "플라워 크로셰 탑 디스플레이",
+          "alt": "플라워 크로셰 탑 디스플레이 · 사진 9",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-top",
+          "sourceFile": "codex-clipboard-ce97b8fc-f64b-452a-9977-859467595dc8.jpg"
+        },
+        {
+          "id": "shopping-extra-10",
+          "src": "/media/work/shopping-extra-10.jpg",
+          "title": "플라워 크로셰 탑 디스플레이",
+          "alt": "플라워 크로셰 탑 디스플레이 · 사진 10",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-top",
+          "sourceFile": "codex-clipboard-522e98f1-cf72-46f6-b3ce-a3deda2864a3.jpg"
+        },
+        {
+          "id": "shopping-extra-6",
+          "src": "/media/work/shopping-extra-6.jpg",
+          "title": "플라워 니트 모자 디스플레이",
+          "alt": "플라워 니트 모자 디스플레이 · 사진 6",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-hat",
+          "sourceFile": "codex-clipboard-c0def6b7-8e0f-4249-9fc4-01dcfd22d316.jpg"
+        },
+        {
+          "id": "shopping-extra-7",
+          "src": "/media/work/shopping-extra-7.jpg",
+          "title": "플라워 니트 모자 디스플레이",
+          "alt": "플라워 니트 모자 디스플레이 · 사진 7",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "crochet-hat",
+          "sourceFile": "codex-clipboard-7fd2e240-91e6-4f6f-a084-f0b5afd34147.jpg"
+        },
+        {
+          "id": "shopping-extra-5",
+          "src": "/media/work/shopping-extra-5.jpg",
+          "title": "청키 스니커즈 디스플레이",
+          "alt": "청키 스니커즈 디스플레이 · 사진 5",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "chunky-sneakers",
+          "sourceFile": "codex-clipboard-7f0c08ce-3198-4870-b7f3-8a76ee7192c2.jpg"
+        },
+        {
+          "id": "shopping-extra-4",
+          "src": "/media/work/shopping-extra-4.jpg",
+          "title": "청키 스니커즈 디스플레이",
+          "alt": "청키 스니커즈 디스플레이 · 사진 4",
+          "role": "",
+          "placeholder": false,
+          "galleryGroup": "chunky-sneakers",
+          "sourceFile": "codex-clipboard-70fd4d62-82e6-4906-a699-784b51df83b9.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+main > section.about-desktop {
+  position: relative;
+  isolation: auto;
+  background: linear-gradient(#fff8f4b8, #fff8f4b8), url('/media/theme/about-pink-clouds.png') center / cover no-repeat;
+  border: 3px solid #7e3d58;
+  border-radius: 16px;
+  box-shadow: -12px 12px 0 #d77ba3, -14px 14px 0 1px #7e3d58;
+  padding: 0 42px 30px 26px;
+  margin: 30px 0 40px 14px;
+}
+
+.about-desktop .desktop-heading {
+  max-width: none;
+  margin: 0 -42px 0 -26px;
+  padding: 15px 118px 15px 22px;
+  min-height: 54px;
+  background: #ffc2d8;
+  border-bottom: 3px solid #7e3d58;
+  border-radius: 13px 13px 0 0;
+}
+
+.about-desktop::before {
+  content: '− □ ×';
+  position: absolute;
+  top: 13px;
+  right: 16px;
+  padding: 0 5px;
+  color: #7e3d58;
+  font: 700 20px/24px var(--font-pixel);
+  letter-spacing: 3px;
+  pointer-events: none;
+}
+
+.about-desktop::after {
+  content: '';
+  position: absolute;
+  top: 88px;
+  bottom: 40px;
+  right: 13px;
+  width: 12px;
+  border: 2px solid #7e3d58;
+  border-radius: 8px;
+  background: linear-gradient(#dc88ad 0 32%, #ffc3db 32% 100%);
+  pointer-events: none;
+}
+
+.about-desktop .desktop-surface {
+  position: relative;
+  isolation: auto;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.about-desktop .profile-frame,
+.about-desktop .profile-frame img {
+  background: transparent;
+}
+
+.about-desktop .desktop-surface::before,
+.about-desktop .desktop-surface::after {
+  content: '';
+  position: absolute;
+  top: 18px;
+  width: 140px;
+  height: 65px;
+  background: url('/media/theme/game-cloud.png') center / contain no-repeat;
+  mix-blend-mode: multiply;
+  opacity: .38;
+  pointer-events: none;
+  z-index: -1;
+}
+.about-desktop .desktop-surface::before { left: 4%; transform: rotate(-5deg); }
+.about-desktop .desktop-folder { mix-blend-mode: multiply; }
+.about-desktop .desktop-surface::before,
+.about-desktop .desktop-surface::after { z-index: 0; }
+.about-desktop .desktop-surface > * { position: relative; z-index: 1; }
+.about-desktop .desktop-surface::after { right: 3%; top: 52px; width: 110px; transform: rotate(4deg); }
+.about-desktop .profile-frame {
+  padding: 0;
+  overflow: hidden;
+  background: #fff;
+  border: 3px solid #c37fa5;
+  border-radius: 12px;
+  box-shadow: 5px 6px 0 #cf93b5, 8px 10px 0 #a9668e, 12px 16px 20px #914e7b30;
+}
+.about-desktop .profile-frame img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center top; border-radius: 0; background: #fff; mix-blend-mode: normal; }
+
+@media (max-width: 600px) {
+  main > section.about-desktop {
+    padding: 0 27px 26px 14px;
+    margin-left: 9px;
+    border-radius: 13px;
+    box-shadow: -7px 8px 0 #d77ba3, -9px 10px 0 1px #7e3d58;
+  }
+  .about-desktop .desktop-heading {
+    margin: 0 -27px 0 -14px;
+    padding: 12px 88px 12px 12px;
+    border-radius: 10px 10px 0 0;
+  }
+  .about-desktop .desktop-heading .eyebrow { font-size: 8px; }
+  .about-desktop::before { right: 9px; font-size: 16px; letter-spacing: 1px; top: 14px; }
+  .about-desktop::after { right: 8px; width: 9px; }
+  .about-desktop .desktop-surface { padding: 16px 0; gap: 16px 4px; }
+  .about-desktop .desktop-profile { max-width: 100%; }
+  .about-desktop .desktop-surface::before { width: 85px; top: 12px; left: -6px; }
+  .about-desktop .desktop-surface::after { width: 72px; top: 62px; right: -8px; }
+}

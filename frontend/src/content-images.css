@@ -1,0 +1,4 @@
+.insight-image-gallery .insight-preview { display: block; width: 100%; height: auto; max-height: 520px; object-fit: contain; background: #fff3fa; }
+.insight-image-controls { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin: 12px 0 24px; font: 12px/1.5 var(--font-pixel); color: #995c81; }
+.insight-image-controls button { padding: 7px 12px; border: 2px solid #cf98b8; border-radius: 4px; background: #ffdaec; color: #8c4b73; font-size: 11px; }
+.insight-image-controls button:disabled { opacity: .4; }

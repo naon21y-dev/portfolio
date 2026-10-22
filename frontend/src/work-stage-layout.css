@@ -1,0 +1,56 @@
+.work-page .work-chapter {
+  display: block;
+  background: #b481e5 url('/media/theme/work-stage-pixel-landscape-v2.png') center bottom / cover no-repeat;
+  padding: 70px 30px 150px;
+}
+
+
+
+.work-page .work-chapter-copy {
+  position: relative;
+  z-index: 6;
+  width: min(46%, 410px);
+  padding: 28px 24px 22px;
+  margin: 0 0 -150px;
+  border: 2px solid #654553;
+  border-image: none;
+  border-radius: 5px;
+  background: #fffdf3;
+  box-shadow: 0 0 0 5px #f685be, 0 0 0 7px #654553, 5px 7px 0 7px #b57499;
+  transform: rotate(-2deg);
+}
+
+.work-page .work-chapter-copy::before {
+  content: '';
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  top: -12px;
+  height: 20px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='20' viewBox='0 0 30 20'%3E%3Crect x='10' y='1' width='8' height='17' rx='3' fill='%23ffe694' stroke='%23654553' stroke-width='2'/%3E%3Cpath d='M13 4v10' stroke='%23fff9db' stroke-width='2'/%3E%3C/svg%3E") left center / 30px 20px repeat-x;
+  pointer-events: none;
+}
+
+.work-page .work-chapter-copy .eyebrow { margin-bottom: 12px; }
+.work-page .work-chapter-copy h2 { font-size: clamp(25px, 3vw, 39px); line-height: 1.45; margin-bottom: 16px; }
+.work-page .work-chapter-copy > p:not(.eyebrow) { font-size: 13px; line-height: 1.85; }
+.work-page .work-collage { width: calc(100% - 30px); height: 620px; margin: 0 15px; }
+.work-page .scrap-photo:nth-child(4n+1) { left: 2%; top: 34%; width: 39%; height: 59%; }
+.work-page .scrap-photo:nth-child(4n+2) { left: 40%; top: 3%; width: 38%; height: 63%; }
+.work-page .scrap-photo:nth-child(4n+3) { right: 0; top: 40%; width: 39%; height: 59%; }
+.work-page .scrap-photo:nth-child(4n+4) { left: 29%; top: 55%; width: 35%; height: 43%; }
+.work-page .four-photos { height: 720px; }
+
+@media(max-width:900px) and (min-width:701px) {
+  .work-page .work-chapter-copy { width: 46%; padding: 24px 18px 18px; margin-bottom: -110px; }
+  .work-page .work-collage { height: 570px; }
+  .work-page .four-photos { height: 650px; }
+}
+
+@media(max-width:700px) {
+  .work-page .work-chapter { padding: 60px 16px 125px; }
+  .work-page .work-chapter-copy { width: calc(100% - 18px); max-width: 410px; margin: 0 auto -12px; padding: 24px 18px 20px; transform: rotate(-1deg); }
+  .work-page .work-chapter-copy h2 { font-size: 27px; }
+  .work-page .work-collage, .work-page .four-photos { width: 100%; height: auto; margin: 0; padding-top: 22px; gap: 18px 10px; }
+  .work-page .scrap-photo:nth-child(n) { position: relative; left: auto; right: auto; top: auto; width: 100%; height: auto; aspect-ratio: 3 / 4; }
+}

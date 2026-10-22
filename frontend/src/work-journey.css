@@ -1,0 +1,14 @@
+main > section.work-page { position: relative; background: transparent; border-color: transparent; box-shadow: none; }
+.work-page .work-chapter { background: #fff; padding-left: 24px; padding-right: 24px; margin: 0; }
+.work-page .work-chapter:first-of-type { border-radius: 16px 16px 0 0; }
+.work-page .work-chapter:last-of-type { border-radius: 0 0 16px 16px; }
+.work-page .game-shelf { height: 65px; margin-top: 20px; }
+.work-page .game-shelf::after, .work-page .game-shelf img { display: none; }
+.work-page .work-chapter { padding-bottom: 145px; }
+.work-journey { position: absolute; inset: 0; pointer-events: none; z-index: 12; mix-blend-mode: multiply; }
+.journey-platform { position: absolute; height: 68px; background: url('/media/theme/game-platform.png') center 50% / 100% auto no-repeat; image-rendering: pixelated; }
+.journey-item { position: absolute; top: -48px; width: 48px; height: 48px; object-fit: contain; transform: translateX(-50%); transition: opacity .18s ease, scale .18s ease; image-rendering: pixelated; }
+.journey-item.collected { opacity: 0; scale: .4; }
+.journey-kirby { position: absolute; left: 0; top: 0; width: 58px; height: 58px; object-fit: contain; image-rendering: pixelated; will-change: transform; }
+@media(max-width:700px) { .work-page .work-chapter { padding-bottom: 130px; padding-left: 14px; padding-right: 14px; } .journey-platform { height: 52px; } .journey-item { width: 38px; height: 38px; top: -38px; } }
+@media(prefers-reduced-motion:reduce) { .journey-item { transition: none; } }
