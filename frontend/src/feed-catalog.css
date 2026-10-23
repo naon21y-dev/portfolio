@@ -32,6 +32,7 @@ body .catalog-page .catalog-info dd { font-family: 'Noto Sans KR', sans-serif !i
 .catalog-modal-controls button:disabled { opacity: .4; }
 @media(max-width:700px) { .catalog-entry { grid-template-columns: 1fr; gap: 24px; padding: 28px 0; } .catalog-entry .catalog-photo { grid-column: 1; grid-row: 1; } .catalog-entry .catalog-info { grid-column: 1; grid-row: 2; padding: 25px 18px; } .catalog-slots { grid-column: 1; grid-row: 3; } .catalog-slots button { width: 70px; height: 86px; } .catalog-main-photo img { max-height: none; } }
 .catalog-ai-notice{margin:10px 0;text-align:center;font-size:12px;color:#75566b;line-height:1.6}
+body .catalog-page .catalog-info dd{white-space:pre-line;line-height:1.9}
 .inventory-catalog.inventory-makeup .inventory-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 .inventory-ai-badge{display:block;background:#784e98;color:#fff;padding:4px 6px;font-size:9px;line-height:1.4}
 .catalog-slots button{position:relative}
@@ -40,7 +41,7 @@ main > section.catalog-page{padding:24px 3% 30px}
 .catalog-page .catalog-back{margin-bottom:18px}
 .catalog-page > .page-title-ko{font-size:clamp(26px,3vw,42px);margin:12px 0}
 .catalog-page .catalog-count{margin:10px 0 20px}
-.inventory-catalog{display:grid;grid-template-columns:minmax(260px,.8fr) minmax(0,1.5fr);gap:24px;align-items:start}
+.inventory-catalog{display:grid;grid-template-columns:minmax(230px,.65fr) minmax(0,1.65fr);gap:24px;align-items:start}
 .inventory-bag{border:4px solid #a76690;background:#f9dced;box-shadow:5px 5px 0 #d398ba;min-width:0}
 .inventory-bar{display:flex;justify-content:space-between;gap:10px;background:#b76b9b;color:#fff9ef;padding:14px;font-size:12px;border-bottom:3px solid #92577e}
 .inventory-hint{font-size:12px;line-height:1.6;padding:14px 14px 0;margin:0;color:#874e70}
@@ -53,14 +54,14 @@ main > section.catalog-page{padding:24px 3% 30px}
 .inventory-slot:hover{transform:translateY(-2px);background:#fff0bd}
 .inventory-slot:focus-visible{outline:3px solid #81426b;outline-offset:3px}
 .inventory-footer{border-top:2px solid #d9a6c2;margin:0;padding:12px 16px;font-size:10px;color:#95547e}
-.inventory-catalog .inventory-detail{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;padding:0;border:0;min-width:0}
-.inventory-detail .catalog-photo{box-shadow:3px 3px 0 #e5bfd5}
+.inventory-catalog .inventory-detail{grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:16px;padding:16px;border:3px solid #b8799e;background:#fff2fa;box-shadow:4px 4px 0 #dfb4cc;min-width:0;align-items:start}
+.inventory-detail .catalog-photo{align-self:start;box-shadow:3px 3px 0 #e5bfd5}
 .inventory-detail .catalog-main-photo img{width:100%;height:clamp(180px,36dvh,360px);object-fit:contain}
-.inventory-detail .catalog-info{padding:20px 16px;align-self:stretch}
+.inventory-detail .catalog-info{padding:20px;align-self:start;max-height:clamp(300px,55dvh,580px);overflow-y:auto;scrollbar-width:thin;scrollbar-color:#bf87a7 #fff4fa;overscroll-behavior:contain}
 .inventory-detail .catalog-info h2{font-size:20px;line-height:1.6;margin:16px 0}
 .inventory-detail .catalog-info dt{margin-top:16px}
 .inventory-detail .catalog-slots{padding:12px;background:#fff1f9;border:2px solid #d6a1bf}
 .inventory-detail .catalog-slots > div{gap:8px;max-height:130px;overflow:auto}
 .inventory-detail .catalog-slots button{width:64px;height:76px;cursor:pointer}
 @media(max-width:950px){.inventory-catalog{grid-template-columns:minmax(220px,.75fr) minmax(0,1.25fr)}.inventory-catalog .inventory-detail{grid-template-columns:1fr}.inventory-detail .catalog-info{grid-column:1;grid-row:2}.inventory-detail .catalog-slots{grid-column:1;grid-row:3}.inventory-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:600px){.inventory-catalog{grid-template-columns:1fr}.inventory-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-height:260px}.inventory-detail .catalog-main-photo img{height:280px}}
+@media(max-width:600px){.inventory-catalog{grid-template-columns:1fr}.inventory-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-height:260px}.inventory-detail .catalog-main-photo img{height:280px}.inventory-detail .catalog-info{max-height:none;overflow:visible}}

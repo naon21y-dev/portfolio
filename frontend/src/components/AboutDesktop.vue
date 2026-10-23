@@ -29,7 +29,7 @@ const lines = computed(() => {
   if (!folder) return []
   return [
     ...(folder.paragraphs || []).map(text => ({ text })),
-    ...(folder.id === 'experience' ? portfolio.career.filter(entry => entry.period).sort((first, second) => first.period.localeCompare(second.period)).map(entry => ({ title: entry.title, text: entry.period })) : []),
+    ...(folder.id === 'experience' ? portfolio.career.map(entry => ({ title: entry.title, text: [entry.period, entry.description].filter(Boolean).join('\n\n') })) : []),
     ...(folder.items || []).map(item => ({ title: item.title, text: item.description })),
     ...(folder.steps || []).map((text, index) => ({ title: `STEP ${index + 1}`, text })),
   ]

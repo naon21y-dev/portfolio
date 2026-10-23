@@ -1,5 +1,8 @@
 .home-screen, .home-screen :is(p, span, small, strong, a, button, h1, h2, h3, .editorial-title) { font-family: var(--font-pixel); letter-spacing: 0; }
 .home-screen { --pixel-edge: #83476f; padding-bottom: 10px; }
+.home-screen > .home-reveal { opacity: 0; transform: translateY(28px); transition: opacity .75s ease, transform .75s cubic-bezier(.2,.65,.3,1); }
+.home-screen > .home-reveal.home-revealed { opacity: 1; transform: translateY(0); }
+@media(prefers-reduced-motion:reduce) { .home-screen > .home-reveal { opacity: 1; transform: none; transition: none; } }
 .home-screen > section { position: relative; margin: 32px 0; padding: 34px; background: #fff7fc; border: 3px solid var(--pixel-edge); border-radius: 0; box-shadow: 6px 6px 0 #d994bb; }
 .home-screen .hero { margin-top: 0; padding: 52px 5% 0; background-color: #fff; background-image: linear-gradient(#edc5dd80 1px, transparent 1px), linear-gradient(90deg,#edc5dd80 1px,transparent 1px); background-size: 24px 24px; overflow: hidden; }
 .home-screen .hero::before { content: '✦ PLAYER PROFILE'; position: absolute; top: 0; left: 0; right: 0; padding: 10px 18px; background: #b36b9a; color: #fff6fc; border-bottom: 3px solid var(--pixel-edge); font: 12px/1.5 var(--font-pixel); }

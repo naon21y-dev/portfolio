@@ -39,5 +39,7 @@ import './feed-catalog.css'
 import './card-carousel.css'
 import './work-stage-viewer.css'
 import './game-route-transition.css'
+import './project-inventory.css'
+import './savepoint-footer.css'
 const router = createRouter({ history: createWebHistory(), routes: [{ path: '/work', component: Work }, { path: '/feed/:slug', component: FeedDetail }, ...['/', '/about', '/projects', '/projects/:id', '/gallery', '/contact', '/:pathMatch(.*)*'].map(path => ({ path, component: Page }))], scrollBehavior: () => ({ top: 0 }) })
 createApp(App).use(router).mount('#app')
